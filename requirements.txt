@@ -2,4 +2,4 @@ gunicorn
 flask
 pandas
 numpy
-sqlite3
+pysqlite
